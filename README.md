@@ -38,11 +38,3 @@ python convert_psd_to_jpg.py
 ## ライセンス
 
 このプロジェクトはMITライセンスの下で公開されています。詳細については、[LICENSE](LICENSE)ファイルを参照してください。
-```
-
-requirements.txt:
-
-```
-Pillow>=9.0.0
-psd-tools>=1.9.22
-```
