@@ -3,8 +3,8 @@ from PIL import Image
 from psd_tools import PSDImage
 
 # 定数でディレクトリを指定
-PSD_FOLDER = "/Users/haruqun/Desktop/psd"
-JPG_FOLDER = "/Users/haruqun/Desktop/jpg"
+PSD_FOLDER = "/Users/xxxxx/Desktop/psd"
+JPG_FOLDER = "/Users/xxxxxx/Desktop/jpg"
 ASPECT_RATIO = (6, 4)
 BACKGROUND_COLOR = (255, 255, 255)  # 背景色（白）
 
