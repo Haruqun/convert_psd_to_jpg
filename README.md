@@ -1,7 +1,3 @@
-はい、README.mdとrequirements.txtを生成いたします。
-
-README.md:
-
 ```markdown
 # PSD to JPG Converter
 
@@ -51,9 +47,3 @@ requirements.txt:
 Pillow>=9.0.0
 psd-tools>=1.9.22
 ```
-
-これらのファイルを作成し、プロジェクトのルートディレクトリに配置してください。`README.md`は、プロジェクトの概要、機能、必要条件、インストール手順、使用方法、およびライセンスについて説明しています。`requirements.txt`には、プロジェクトに必要なPythonライブラリとそのバージョンが記載されています。
-
-ユーザーは、`README.md`の指示に従ってプロジェクトをセットアップし、`requirements.txt`を使用して必要なライブラリをインストールできます。
-
-ご確認のほど、よろしくお願いいたします。
